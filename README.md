@@ -63,10 +63,14 @@ cd ai-academy
 
 ### FrontEnd
 cd frontend
+
 npm install
+
 npm run dev
 
 ### Backend
 cd ../backend
+
 npm install  # or pip install -r requirements.txt
+
 npm run dev  

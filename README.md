@@ -31,18 +31,6 @@ AI Academy is a full-stack web application that allows users to upload study mat
 
 ---
 
-## 📂 Project Structure
-AI_Academy/
-├── backend/       # LangGraph + API server
-├── frontend/      # React + Chakra UI frontend
-│   ├── src/
-│   │   ├── myComponents/  # Custom UI components
-│   │   ├── services/      # API service calls
-│   │   ├── theme.ts       # Chakra theme config
-│   │   └── main.tsx
-└── README.md 
-
----
 
 ## ⚙️ How It Works
 

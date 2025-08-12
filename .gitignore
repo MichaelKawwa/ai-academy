@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.env*
+*.log
+*.local
+.vscode/
+.idea/
+dist/
+build/
+*.sqlite
+coverage/
+.DS_Store?
+

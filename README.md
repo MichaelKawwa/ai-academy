@@ -3,9 +3,9 @@
 AI Academy is a full-stack web application that allows users to upload study materials (PDF, DOCX, PPTX, images, or plain text) and automatically generates interactive multiple-choice quizzes using a Large Language Model (LLM) pipeline.
 
 
-<img width="1920" height="997" alt="Screenshot 2025-08-11 at 5 08 04 PM" src="https://github.com/user-attachments/assets/6220da15-1092-4b95-8a38-bfbcaaaec273" />
-
 <img width="1309" height="827" alt="Screenshot 2025-08-11 at 8 38 42 PM" src="https://github.com/user-attachments/assets/f5fbc363-a014-4e3b-a744-d7cb560aaaba" />
+
+<img width="1920" height="997" alt="Screenshot 2025-08-11 at 5 08 04 PM" src="https://github.com/user-attachments/assets/6220da15-1092-4b95-8a38-bfbcaaaec273" />
 
 
 ## 🚀 Features
